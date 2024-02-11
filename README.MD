@@ -19,8 +19,8 @@ This Go application implements a basic RESTful API for managing a collection of 
 ## Usage
 Use an HTTP client (e.g., cURL, Postman) to send requests to the API endpoints.
 ## API Endpoints
-GET /movies: Fetch all movies.
-GET /movies/{id}: Fetch a movie by ID.
-POST /movies: Create a new movie.
-PUT /movies/{id}: Update a movie by ID.
-DELETE /movies/{id}: Delete a movie by ID.
+ - GET /movies: Fetch all movies.
+ - GET /movies/{id}: Fetch a movie by ID.
+ - POST /movies: Create a new movie.
+ - PUT /movies/{id}: Update a movie by ID.
+ - DELETE /movies/{id}: Delete a movie by ID.
